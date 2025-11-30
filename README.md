@@ -4,8 +4,8 @@ This repository contains an end-to-end Excel project completed during a hands-on
 
 # Project Overview
 # 1. Data Cleaning
-Handling missing values
-Removing duplicates
+Handling missing values<br>
+Removing duplicates<br>
 Standardizing formats
 Splitting/combining fields
 Applying filters to isolate issues
